@@ -5,8 +5,8 @@ Welcome to this repository, where you'll be taking a complete journey through th
 The tutorials in this repository will be accompanied by videos on my YouTube channel, [AI with Muzammil](https://www.youtube.com/@AIwithMuzammil). This will provide a hands-on, step-by-step approach to learning Python, so you can see the concepts in action and ask questions along the way.
 
 ## Learning Codebase
-1. Stop 01: [Set-up Python](/journey/GettingStarted/)
-1. Stop 02: [What are data variables and how to use them?](/journey/DataVariables/)
+1. Stop 01: [Set-up Python](/GettingStarted/)
+1. Stop 02: [What are data variables and how to use them?](/DataVariables/)
 
 ## Summary
 Here's what you can expect from this journey:
