@@ -4,6 +4,10 @@ Welcome to this repository, where you'll be taking a complete journey through th
 
 The tutorials in this repository will be accompanied by videos on my YouTube channel, [AI with Muzammil](https://www.youtube.com/@AIwithMuzammil). This will provide a hands-on, step-by-step approach to learning Python, so you can see the concepts in action and ask questions along the way.
 
+## Codebase
+1. Action 01: [Setting-up Python and Get Started](/journey/GettingStarted/)
+
+## Summary
 Here's what you can expect from this journey:
 
 1. **Getting Started with Python**: In this tutorial, we'll cover the basics of the Python from installation to setting up the first program.
