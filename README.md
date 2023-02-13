@@ -1,8 +1,6 @@
 # Installing Python with Miniconda and Visual Studio Code
 
-<a href="https://www.youtube.com/watch?v=qMhMeB9dg-g" target="_blank">
-  <img src="https://img.youtube.com/vi/YourVideoID/0.jpg" alt="Getting Started with Python" width="560" height="315" border="10"/>
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qMhMeB9dg-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 In this tutorial, we'll be walking through the steps to install Python on your computer using Miniconda and Visual Studio Code. We'll also create a Python environment and run a simple "Hello World" program to make sure everything is working as expected.
 
