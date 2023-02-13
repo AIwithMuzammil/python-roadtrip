@@ -28,20 +28,14 @@ In this tutorial, we'll be walking through the steps to install Python on your c
 5. To verify that the environment was created and activated successfully, type the following command and hit enter:
 ```conda info --envs```
 
-### Step 4: Install Python in Visual Studio Code
-
-1. Open Visual Studio Code and click on the Extensions button on the left side of the window. 
-2. Search for the "Python" extension and install it. 
-3. Once the installation is complete, reload Visual Studio Code.
-
-### Step 5: Create and Run a "Hello World" Program
+### Step 4: Create and Run a "Hello World" Program
 
 1. Click on the File menu, then select New File. 
 2. Type in the following code: 
 ```print("Hello World")```
-3. Save the file with a .py extension (e.g., hello_world.py). 
+3. Save the file with a .py extension (e.g., helloworld.py). 
 4. In the terminal, type the following command and hit enter:
-```python hello_world.py```
+```python helloworld.py```
 5. You should see "Hello World" printed in the terminal.
 
 And that's it! You have successfully installed Python on your computer using Miniconda and Visual Studio Code. If you run into any issues or have any questions, feel free to leave a comment below.
