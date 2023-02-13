@@ -1,7 +1,7 @@
 # Installing Python with Miniconda and Visual Studio Code
 
 <a href="https://www.youtube.com/watch?v=qMhMeB9dg-g" target="_blank">
-  <img src="https://img.youtube.com/vi/qMhMeB9dg-g/0.jpg" alt="Getting Started with Python" width="560" height="315" border="0"/>
+  <img src="https://img.youtube.com/vi/qMhMeB9dg-g/0.jpg" alt="Getting Started with Python" width="560" height="400" border="0"/>
 </a>
 
 
