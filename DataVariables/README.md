@@ -1,5 +1,9 @@
 # Python Data Variables
-In Python, data types refer to the types of values that can be assigned to variables. There are several built-in data types in Python, including strings, integers, and floating-point numbers. Understanding data types is important for writing code that performs operations and manipulations on data.
+In Python, data types refer to the types of values that can be assigned to variables. There are several built-in data types in Python, including strings, integers, and floating-point numbers. Understanding data types is important for writing code that performs operations and manipulations on data. Here's my YouTube video tutorial: [Python Data Variables and Structures](https://youtu.be/1OczggocI3U).
+
+<a href="https://www.youtube.com/watch?v=1OczggocI3U" target="_blank">
+  <img src="https://img.youtube.com/vi/1OczggocI3U/0.jpg" alt="Python Data Variables and Structures" width="560" height="315" border="0"/>
+</a>
 
 ## Data Types
 ### Strings (str)
