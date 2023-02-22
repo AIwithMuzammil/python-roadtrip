@@ -7,6 +7,7 @@ The tutorials in this repository will be accompanied by videos on my YouTube cha
 ## Learning Codebase
 1. Stop 01: [Set-up Python](/GettingStarted/)
 1. Stop 02: [What are data variables and how to use them?](/DataVariables/)
+1. Stop 03: [Python Console Input and Logical Operators](/Inputs-LogicalOperators/)
 
 ## Summary
 Here's what you can expect from this journey:
@@ -15,11 +16,12 @@ Here's what you can expect from this journey:
 
 2. **Dealing with Data**: In this tutorial, we'll learn about Python's built-in data types, data structures, including lists, dictionaries, and tuples, and we'll explore how to manipulate and process data with Python.
 
-3. **Loops and Control Structure**: In this tutorial, we'll take a closer look at loops and control structures in Python, learning how to define and use them in different situations.
+3. **Python Console Input and Logical Operators**: In this tutorial, we'll learn how to take inputs from python console/terminal, and we'll also discuss different logical operators.
 
-4. **Working with Functions and Modules**: In this tutorial, we'll dive deeper into the world of Python, exploring functions and modules, and learning how to write reusable code.
 
-5. **Working with Files and DataFiles**: In this tutorial, we'll learn how to read and write data to files, and we'll explore how to work with data using Python's custom modules.
+4. **Loops and Control Structure**: In this tutorial, we'll take a closer look at loops and control structures in Python, learning how to define and use them in different situations.
+
+5. **Working with Functions and Modules**: In this tutorial, we'll dive deeper into the world of Python, exploring functions and modules, and learning how to write reusable code.
 
 And much more!
 
