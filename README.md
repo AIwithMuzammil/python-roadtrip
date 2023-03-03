@@ -6,8 +6,9 @@ The tutorials in this repository will be accompanied by videos on my YouTube cha
 
 ## Learning Codebase
 1. Stop 01: [Set-up Python](/GettingStarted/)
-1. Stop 02: [What are data variables and how to use them?](/DataVariables/)
-1. Stop 03: [Python Console Input and Logical Operators](/Inputs-LogicalOperators/)
+2. Stop 02: [What are data variables and how to use them?](/DataVariables/)
+3. Stop 03: [Python Console Input and Logical Operators](/Inputs-LogicalOperators/)
+4. Stop 04: [Conditional Statements and Loops in Python](/ConditionalStatements-and-Loops/)
 
 ## Summary
 Here's what you can expect from this journey:
