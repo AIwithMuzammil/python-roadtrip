@@ -16,9 +16,9 @@ temperature = 35
 
 if temperature > 30:
     print("It is hot today!")
-elif temperature =< 30 and temperature > 20:
+elif temperature <= 30 and temperature > 20:
     print("It is pretty ok today!")
-elif temperature =< 20 and temperature > 5:
+elif temperature <= 20 and temperature > 5:
     print("It is cold today")
 else: # temperature <= 5
     print("It is freezing today!")
