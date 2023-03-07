@@ -9,6 +9,7 @@ The tutorials in this repository will be accompanied by videos on my YouTube cha
 2. Stop 02: [What are data variables and how to use them?](/DataVariables/)
 3. Stop 03: [Python Console Input and Logical Operators](/Inputs-LogicalOperators/)
 4. Stop 04: [Conditional Statements and Loops in Python](/ConditionalStatements-and-Loops/)
+5. Stop 05: [Functions in Python](/Functions/)
 
 ## Summary
 Here's what you can expect from this journey:
