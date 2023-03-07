@@ -27,4 +27,4 @@ Here's what you can expect from this journey:
 
 And much more!
 
-So get ready to embark on a complete journey through the world of Python! If you have any questions or need clarification along the way, be sure to check out the corresponding videos on my YouTube channel, [AI with Muzammil](https://www.youtube.com/@AIwithMuzammil).
+So get ready to embark on a complete journey through the world of Python! If you have any questions or need clarification along the way, shoot it right away here or on my YouTube channel, [AI with Muzammil](https://www.youtube.com/@AIwithMuzammil).
