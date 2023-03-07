@@ -4,12 +4,12 @@ Welcome to this repository, where you'll be taking a complete journey through th
 
 The tutorials in this repository will be accompanied by videos on my YouTube channel, [AI with Muzammil](https://www.youtube.com/@AIwithMuzammil). This will provide a hands-on, step-by-step approach to learning Python, so you can see the concepts in action and ask questions along the way.
 
-## Learning Codebase
-1. Stop 01: [Set-up Python](/GettingStarted/)
-2. Stop 02: [What are data variables and how to use them?](/DataVariables/)
-3. Stop 03: [Python Console Input and Logical Operators](/Inputs-LogicalOperators/)
-4. Stop 04: [Conditional Statements and Loops in Python](/ConditionalStatements-and-Loops/)
-5. Stop 05: [Functions in Python](/Functions/)
+## Codebase PitStops
+- Stop 01: [Set-up Python](/GettingStarted/)
+- Stop 02: [What are data variables and how to use them?](/DataVariables/)
+- Stop 03: [Python Console Input and Logical Operators](/Inputs-LogicalOperators/)
+- Stop 04: [Conditional Statements and Loops in Python](/ConditionalStatements-and-Loops/)
+- Stop 05: [Functions in Python](/Functions/)
 
 ## Summary
 Here's what you can expect from this journey:
