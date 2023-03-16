@@ -2,6 +2,12 @@
 
 Welcome to this repository, where you'll be taking a complete journey through the world of Python! This repository will serve as a guide, with each tutorial building upon the knowledge and skills learned in previous tutorials.
 
+If you would like to learn Python quickly with this beginner's tutorial and code in just 1 hour, here's the YouTube video tutorial: [Python for Beginners - Learn Python in 1 Hour [Full Course Tutorial]](https://youtu.be/vEkYyCJGPuk).
+
+<a href="https://www.youtube.com/watch?v=vEkYyCJGPuk" target="_blank">
+  <img src="https://img.youtube.com/vi/vEkYyCJGPuk/0.jpg" alt="Python for Beginners - Learn Python in 1 Hour [Full Course Tutorial]" width="560" height="315" border="0"/>
+</a>
+
 The tutorials in this repository will be accompanied by videos on my YouTube channel, [AI with Muzammil](https://www.youtube.com/@AIwithMuzammil). This will provide a hands-on, step-by-step approach to learning Python, so you can see the concepts in action and ask questions along the way.
 
 ## Codebase PitStops
